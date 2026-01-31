@@ -12,7 +12,7 @@ Focus: ML, data analysis, optimization, anomaly detection, and EDA tools.
 
 - **DataPrep.EDA (2021)** — Reimplementing core task-centric EDA features from the SIGMOD 2021 paper "DataPrep.EDA: Task-Centric Exploratory Data Analysis for Statistical Modeling in Python"  
 
-  → [dataprep_eda_reimplementation.ipynb](dataprep_eda_reimplementaion/dataprep_eda_reimplementation.ipynb)
+  → [dataprep_eda_reimplementation.ipynb](dataprep_eda_reimplementaion/dataprep_eda_reimplementaion.ipynb)
 
   Goal: Build simplified versions of auto-EDA functions (overview stats, distributions, correlations, missing values) without using the original library.
 
