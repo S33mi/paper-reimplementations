@@ -2,7 +2,7 @@
 
 
 
-My personal reproductions and reimplementations of research papers in Python/Jupyter notebooks.  
+My personal reproductions and reimplementations of research papers in Python/Jupyter notebooks during my PhD studies.  
 
 Focus: ML, data analysis, optimization, anomaly detection, and EDA tools.
 
