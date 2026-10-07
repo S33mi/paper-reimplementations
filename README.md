@@ -18,7 +18,11 @@ Focus: ML, data analysis, optimization, anomaly detection, and EDA tools.
 
   Goal: Build simplified versions of auto-EDA functions (overview stats, distributions, correlations, missing values) without using the original library.
 
+- **Predicting Stock Direction with Random Forest (2016)** — Critical reproduction of Khaidem et al. (arXiv:1605.00003)  
+  → [stock_direction_rf_2016.ipynb](stock_direction_rf_2016/stock_direction_rf_2016.ipynb)  
+  → [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/S33mi/paper-reimplementations/blob/main/stock_direction_rf_2016/stock_direction_rf_2016.ipynb)
 
+  Goal: Reproduce the reported ~92% accuracy on AAPL and show that the high performance is largely due to data leakage from shuffling a time-series.
 
 More notebooks coming soon!
 
